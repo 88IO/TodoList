@@ -1,3 +1,9 @@
+## 環境構築
+1. Node.js & npm のインストール
+2. npm install -g create-react-app
+3. git clone https://github.com/88IO/TodoList.git
+4. プロジェクトのルートディレクトリで「npm install」
+
 ## 言語
 - JavaScript
 - JSX
